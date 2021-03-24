@@ -23,7 +23,7 @@ On Windows: `climate\Scripts\activate.bat`
 
 `pip install --upgrade pip`
 
-5. Last, install all packages using `pip` to the virtual environment.
+5. Install all packages using `pip` to the virtual environment.
 
 `pip install -r requirements.txt`
 
@@ -32,3 +32,7 @@ If this is not working well for you, please use the following video tutorial to 
 [Mac](https://www.youtube.com/watch?v=Kg1Yvry_Ydk&ab_channel=CoreySchafer)
 
 [Windows](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
+
+6. Launch Jupyter Notebook
+
+`jupyter notebook .`
