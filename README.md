@@ -33,6 +33,6 @@ If this is not working well for you, please use the following video tutorial to 
 
 [Windows](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
 
-6. Launch Jupyter Notebook via the command below, and navigate to the "notebooks" folder to begin your voyage.
+6. Launch Jupyter Notebook via the command below, then navigate to the "notebooks" folder to begin your voyage.
 
 `jupyter notebook .`
