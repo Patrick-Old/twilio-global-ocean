@@ -1,5 +1,5 @@
 # Ahoy! Are You Ready for Climate Model Data Analysis?
-### Let's sail the high seas together through an analysis of a global oceanographic climate model.
+### Let's sail the high seas together through the analysis of a global oceanographic climate model.
 
 In this mini-workshop we will be working with data from one of the world's best climate models as we build toward an understanding of its structure and meaning.
 
