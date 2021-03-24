@@ -5,7 +5,13 @@ In this mini-workshop we will be working with data from one of the world's best 
 
 # Setup
 
-All of our code will be written in Python (specifically, Python 3). To get setup correctly, please ensure you have Python installed on your machine. If it is not, you can install it from the official page [here](https://www.python.org/downloads/). Below, we will create a virtual environment and install the necessary Python packages to the virtual environment. We can then use either the command prompt (Windows) or terminal (Mac) to run the following commands in the local git repository.
+All of our code will be written in Python (specifically, Python 3). To get setup correctly, please ensure you have Python installed on your machine. If it is not, you can install it from the official page [here](https://www.python.org/downloads/). Below, we will create a virtual environment and install the necessary Python packages for this mini-workshop. We can then use either the terminal (Mac) or command prompt (Windows) to run the following commands in the local git repository.
+
+If you have trouble creating the virtual environment via the commands below, please feel free to contact me at patrickold96@gmail.com or use the following video tutorial to potentially address your challenges.
+
+[Mac](https://www.youtube.com/watch?v=Kg1Yvry_Ydk&ab_channel=CoreySchafer)
+
+[Windows](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
 
 1. Clone the repository.
 
@@ -26,12 +32,6 @@ On Windows: `climate\Scripts\activate.bat`
 5. Install all packages using `pip` to the virtual environment.
 
 `pip install -r requirements.txt`
-
-If this is not working well for you, please use the following video tutorial to potentially address your challenges.
-
-[Mac](https://www.youtube.com/watch?v=Kg1Yvry_Ydk&ab_channel=CoreySchafer)
-
-[Windows](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
 
 6. Launch Jupyter Notebook via the command below, then navigate to the "notebooks" folder to begin your voyage.
 
