@@ -7,11 +7,7 @@ In this mini-workshop we will be working with data from one of the world's best 
 
 All of our code will be written in Python (specifically, Python 3). To get setup correctly, please ensure you have Python installed on your machine. If it is not, you can install it from the official page [here](https://www.python.org/downloads/). Below, we will create a virtual environment and install the necessary Python packages for this mini-workshop. We can then use either the terminal (Mac) or command prompt (Windows) to run the following commands in the local git repository.
 
-If you have trouble creating the virtual environment via the commands below, please feel free to contact me at patrickold96@gmail.com or use the following video tutorial to potentially address your challenges.
-
-[Mac](https://www.youtube.com/watch?v=Kg1Yvry_Ydk&ab_channel=CoreySchafer)
-
-[Windows](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer)
+If you have trouble creating the virtual environment via the commands below, please feel free to contact me at patrickold96@gmail.com or use the following video tutorial to potentially address your challenges: [Mac](https://www.youtube.com/watch?v=Kg1Yvry_Ydk&ab_channel=CoreySchafer), [Windows](https://www.youtube.com/watch?v=APOPm01BVrk&ab_channel=CoreySchafer).
 
 1. Clone the repository.
 
