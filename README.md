@@ -11,13 +11,13 @@ All of our code will be written in Python (specifically, Python 3). To get setup
 
 2. Create the virtual environment.
 
-`python3 -m venv venv`
+`python3 -m venv climate`
 
 3. Activate the virtual environment.
 
-On Mac: `source venv/bin/activate`
+On Mac: `source climate/bin/activate`
 
-On Windows: `venv\Scripts\activate.bat`
+On Windows: `climate\Scripts\activate.bat`
 
 4. Make sure `pip` is up to date with the following command.
 
