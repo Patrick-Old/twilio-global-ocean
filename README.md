@@ -11,6 +11,8 @@ If you have trouble creating the virtual environment via the commands below, ple
 
 1. Clone the repository.
 
+`git clone https://github.com/Patrick-Old/twilio-global-ocean.git`
+
 2. Create the virtual environment.
 
 `python3 -m venv climate`
